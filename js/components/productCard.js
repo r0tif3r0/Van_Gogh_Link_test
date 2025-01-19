@@ -49,7 +49,6 @@ posterContainer.appendChild(box);
 
 productCardTmp.appendChild(posterContainer);
 productCardTmp.appendChild(productInfo);
-//productCardTmp.appendChild(promoLabel);
 
 const style = document.createElement('link');
 style.setAttribute('rel', 'stylesheet');
